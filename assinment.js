@@ -7,7 +7,7 @@ function seerToMon(seer){
     return mon;
 }
 
-const seer = seerToMon(-80);
+const seer = seerToMon(80);
 console.log(seer);
 
 // 2nd problem

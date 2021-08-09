@@ -1,8 +1,8 @@
 // 1st problem 
 function seerToMon(seer){
-    if(seer < 0){
+    /* if(seer < 0){
         return "Plz give a positiv seer"
-    }
+    } */
     let mon = seer / 40;
     return mon;
 }
